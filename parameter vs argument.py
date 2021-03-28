@@ -1,5 +1,5 @@
 
-# her har vi en parameter: navn
+# her har vi et parameter: navn
 def greet(navn):
     print("Hei, " + navn)
 
