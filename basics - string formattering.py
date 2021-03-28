@@ -1,4 +1,3 @@
-
 navneliste = ["Nicolai", "Silje"]
 
 print("Hei, {} og {}".format(*navneliste))
