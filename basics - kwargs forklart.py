@@ -1,5 +1,4 @@
 # kwargs står for keyword arguments
-
 # *kwargs gjør at funksjonen kan ta imot en dictionary med vilkårlig lengde som argument
 
 info = {
