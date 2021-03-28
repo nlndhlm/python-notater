@@ -1,5 +1,5 @@
 # kwargs står for keyword arguments
-# *kwargs gjør at funksjonen kan ta imot en dictionary med vilkårlig lengde som argument
+# *kwargs gjør at funksjonen kan ta imot en dictionary eller annen iterabel med vilkårlig lengde som argument
 
 info = {
     "navn" : "Nicolai",
