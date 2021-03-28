@@ -1,3 +1,9 @@
+navn = "Louie"
+
+print("Hello {}".format(navn))
+
+
+
 navneliste = ["Nicolai", "Silje"]
 
 print("Hei, {} og {}".format(*navneliste))
