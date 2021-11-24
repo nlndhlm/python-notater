@@ -1,4 +1,3 @@
-# python-starters
+# python-notater
 
-Starters og enkle scripts i Python.  
 Oppslagsverk til eget bruk.
