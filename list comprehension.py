@@ -10,3 +10,7 @@ print(tall)
 partall = [x for x in range(0, 20) if x %2 == 0]
 
 print(partall)
+
+
+# Remember, every list comprehension can be rewritten in for loop,
+# but every for loop can’t be rewritten in the form of list comprehension
