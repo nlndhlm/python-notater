@@ -1,3 +1,3 @@
-# python-notater
+# Notater
 
 Oppslagsverk til eget bruk.
